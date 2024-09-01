@@ -16,5 +16,6 @@ navToggle.addEventListener("click", function(){
     // } else {
     //     links.classList.add("show-links");
     // }
+    // classList.toggle : 클래스가 존재한다면 제거하고 false를 반환, 존재하지 않으면 클래스를 추가하고 true를 반환한다
     links.classList.toggle("show-links");
 });
