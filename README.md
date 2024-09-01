@@ -20,7 +20,7 @@
 - currentTarget 속성
 - [classList](https://seokzin.tistory.com/entry/Javascript-classList-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A2%85%EB%A5%98-remove-add-item-toggle-contains-replace)
 - textContent
-![img_01.png](./img/img01.png)
+![img_02.png](./img/img02.png)
 
 ## 3. Reviews ❔
 - 객체
@@ -28,27 +28,27 @@
 - addEventListener()
 - array.length
 - textContent
-![img_02.png](./img/img02.png)
+![img_03.png](./img/img03.png)
 
 ## 4. Navbar(반응형)
 - document.querySelector()
 - addEventListener()
 - classList.toggle()
-![img_03.png](./img/img03.png)
+![img_04.png](./img/img04.png)
 
 ## 5. Sidebar
 - document.querySelector()
 - addEventListener()
 - classList.toggle()
 - classList.remove()
-![img_04.png](./img/img04.png)
+![img_05.png](./img/img05.png)
 
 ## 6. Modal
 - document.querySelector()
 - addEventListener()
 - classList.toggle()
 - classList.remove()
-![img_05.png](./img/img05.png)
+![img_06.png](./img/img06.png)
 
 
 ---
