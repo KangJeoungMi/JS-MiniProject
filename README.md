@@ -1,5 +1,6 @@
 # JS-MiniProject
 자바스크립 공부를 위한 미니프로젝트
+> Build 15 JavaScript Projects - Vanilla JavaScript Course
 
 ## 1. ColorFilpper
 
