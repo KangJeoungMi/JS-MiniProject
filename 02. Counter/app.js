@@ -16,7 +16,8 @@ btns.forEach(function (btn){
         // e.stopPropagation(): 이벤트 버블링을 막을 수 있는 메소드입니다. 부모 요소로 이벤트가 전파되는 것을 막습니다.
     btn.addEventListener("click", function (e){
         // e.currentTarget: 이벤트가 바인딩된 요소를 가리킵니다. 여기서는 btn 요소입니다.
-        // clssList : HTML요소의 클래스 속성을 조작하는 데 사용되는 유용한 JS API이다. 이 API는 클래스의 추가, 제거, 토글, 확인 등의 작업을 수행한다.
+        // clssList : HTML요소의 클래스 속성을 조작하는 데 사용되는 유용한 JS API이다. 
+        // 이 API는 클래스의 추가, 제거, 토글, 확인 등의 작업을 수행한다.
         // classList를 사용하면 코드의 가독성을 높이고, 클래스 조작을 더 쉽게 수행한다
         const styles = e.currentTarget.classList; // 클래스 목록들을 가져온다
         if (styles.contains("decrease")) {// decrease라는 클래스가 포함되어 있으면 하나씩 뺀다

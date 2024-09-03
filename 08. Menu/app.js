@@ -1,6 +1,6 @@
-// get only unique categories - HAEDEST ONE
-// iterate over categories return buttons
-// make sure to select buttons when they are available
+// get only unique categories - HAEDEST ONE (유일한 카테고리만 가져오기)
+// iterate over categories return buttons (카테고리를 반복하여 버튼을 반환)
+// make sure to select buttons when they are available (버튼이 사용 가능할 때 선택하도록 확인)
 
 // items
 const menu = [

@@ -51,6 +51,33 @@
 - classList.remove()
 ![img_06.png](./img/img06.png)
 
+## 7. FAQ
+- document.querySelectorAll()
+- addEventListener()
+- forEach()
+- classList.remove()
+- classList.toggle()
+![img_06.png](./img/img06.png)
+
+## 8. Menu
+- 배열
+- 객체
+- forEach()
+- DOMContentLoaded
+- map, reduce, filter
+- innerHTML
+- includes 메서드
+![img_06.png](./img/img06.png)
+
+## 9. Video
+- document.querySelector()
+- addEventListener()
+- classList.contains()
+- classList.add()
+- classList.remove()
+- play()
+- pause()
+![img_06.png](./img/img06.png)
 
 ---
 ## 참고자료
